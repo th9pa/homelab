@@ -21,7 +21,7 @@ Advantages
 
 Secure Shell.
 
-Encrypted protocol allows to remotely access and amange another computer over a network using an encrypted connection.
+Encrypted protocol allows to remotely access and manage another computer over a network using an encrypted connection.
 
 Used to remotely execute commands over a network.
 
