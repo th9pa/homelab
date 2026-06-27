@@ -59,6 +59,14 @@ Installed OpenSSH Server to enable secure remote administration.
 * EFI Partition
 * Ubuntu Mirrors
 
+## Linux Skills Acquired
+
+- Connected to a remote Linux server using SSH.
+- Navigated the Linux filesystem using `cd`, `pwd` and `ls`.
+- Understood the difference between absolute and relative paths.
+- Created directories using `mkdir`.
+- Identified the current user and hostname using `whoami` and `hostname`.
+
 ## Reflection
 
 Today I learned that virtualization is more than simply running another operating system. I now understand that a VM has its own virtual CPU, memory, storage and network adapter, allowing it to function as an independent machine on my home network.
