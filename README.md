@@ -36,7 +36,7 @@ Rather than following tutorials without understanding them, the aim of this proj
 
 * ✅ Installed Proxmox VE
 * ✅ Created first Ubuntu Server VM
-* ⏳ Configure Docker
+* ✅ Configure Docker
 * ⏳ Deploy Pi-hole
 * ⏳ Deploy Plex
 * ⏳ Windows Server
