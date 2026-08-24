@@ -1,5 +1,6 @@
 # Cybersecurity Homelab
-
+## DISCLAIMER
+- AI was used to document this git as a tool to remember and refer to what I have learnt.
 ## Overview
 
 This repository documents the development of my personal cybersecurity and infrastructure homelab, built to gain hands-on experience with virtualisation, Linux administration, networking, containerisation, monitoring, troubleshooting and defensive security.
